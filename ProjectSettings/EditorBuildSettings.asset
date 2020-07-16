@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dev.unity
+    guid: 984a779071a9f492695262af0dbd287b
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 4df8a6a91bd874a0c9d994fc1ae8c2f0,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: fdf6b2345c68c481eb4d73c64ce2100e,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1bfe859187d34302a9b4d30dd74e57b,
+      type: 2}
